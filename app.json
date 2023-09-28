@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "41e3a503-d47a-4bd6-9216-86c499aaa503"
+      }
+    },
+    "owner": "matt-koko"
   }
 }
